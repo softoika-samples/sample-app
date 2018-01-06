@@ -77,6 +77,10 @@ p {
   }
 }
 
+.dropdown:hover > .dropdown-menu{
+  display: block;
+}
+
 /* footer */
 
 footer {
